@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Conundrums/static/css/main.f3e46eb5.chunk.css",
+    "main.js": "/Conundrums/static/js/main.42821600.chunk.js",
+    "main.js.map": "/Conundrums/static/js/main.42821600.chunk.js.map",
+    "runtime-main.js": "/Conundrums/static/js/runtime-main.19d13d0f.js",
+    "runtime-main.js.map": "/Conundrums/static/js/runtime-main.19d13d0f.js.map",
+    "static/js/2.c6f6657e.chunk.js": "/Conundrums/static/js/2.c6f6657e.chunk.js",
+    "static/js/2.c6f6657e.chunk.js.map": "/Conundrums/static/js/2.c6f6657e.chunk.js.map",
+    "index.html": "/Conundrums/index.html",
+    "precache-manifest.4b1ec06a7d859b56c0318e0655f5e2a6.js": "/Conundrums/precache-manifest.4b1ec06a7d859b56c0318e0655f5e2a6.js",
+    "service-worker.js": "/Conundrums/service-worker.js",
+    "static/css/main.f3e46eb5.chunk.css.map": "/Conundrums/static/css/main.f3e46eb5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d13d0f.js",
+    "static/js/2.c6f6657e.chunk.js",
+    "static/css/main.f3e46eb5.chunk.css",
+    "static/js/main.42821600.chunk.js"
+  ]
+}
